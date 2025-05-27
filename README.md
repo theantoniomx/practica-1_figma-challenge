@@ -1,4 +1,4 @@
-# pmsn2025
+# Práctica 1: Figma Challenge
 
 A new Flutter project.
 
